@@ -2,7 +2,7 @@
 # Привет, меня зовут Артём.
 
 ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+начинающий+frontend+разработчик)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+инженер+электроник)](https://git.io/typing-svg)
 ***
 ![](https://i.gifer.com/BWkS.gif)
 ***
